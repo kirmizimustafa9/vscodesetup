@@ -7,7 +7,7 @@ Extensions:
   <li>vscode-icons-mac by Wayou Liu</li>
 </ul>
 
-#theme
+###theme
 theme:
 <ul>
   <li>Omni Theme by Rocketseat</li>
