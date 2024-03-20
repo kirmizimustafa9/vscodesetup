@@ -10,4 +10,5 @@ Extensions:
 theme:
 <ul>
   <li>Omni Theme by Rocketseat</li>
+  <li>Ayu Theme by teabyii</li>
 </ul>
