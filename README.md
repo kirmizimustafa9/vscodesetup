@@ -1,5 +1,4 @@
-# my vscode setup
-Extensions:
+#Extensions:
 <ul>
   <li>Live Server by Ritwick Dey</li>
   <li>indent-rainbow by oderwat</li>
@@ -7,7 +6,7 @@ Extensions:
   <li>vscode-icons-mac by Wayou Liu</li>
 </ul>
 
-Themes:
+#Themes:
 <ul>
   <li>solarized sunset theme by Jan Simson</li>
   <li>ayu by teabyii</li>
