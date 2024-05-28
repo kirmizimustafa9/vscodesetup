@@ -3,6 +3,7 @@
   <li>Live Server by Ritwick Dey</li>
   <li>indent-rainbow by oderwat</li>
   <li>Live Preview by Microsoft</li>
+  <li>Auto Rename Tag by Jun Han</li>
   <li>error lens by Alexander</li>
   <li>vscode-icons-mac by Wayou Liu</li>
   <li>vscode-icons-iconify by LQYld</li>
