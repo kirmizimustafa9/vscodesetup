@@ -5,6 +5,7 @@
   <li>Live Preview by Microsoft</li>
   <li>Auto Rename Tag by Jun Han</li>
   <li>error lens by Alexander</li>
+  <li>Qt For Python by Shuang Wu</li>
 </ul>
 
 <h1>Themes:</h1>
